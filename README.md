@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🤔 I’m looking for help with time-travel and teleportation.
-- 💬 Ask me about winter.
+- 💬 Ask me about winter...
 
 <!--
 **IsawU/IsawU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
