@@ -1,6 +1,6 @@
 # 👋
 
-- 🤔 Iʼm looking for help with time-travel and teleportation.
+- 🤔 Iʼm looking for help with time–travel and teleportation.
 - 💬 Ask me about winter…
 
 <!--
